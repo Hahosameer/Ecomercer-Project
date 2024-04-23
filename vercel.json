@@ -1,1 +1,6 @@
-{"REWRITES":[{"SOURCE":"/(.*)","DESTINATION":"/"}]}
+{
+    "buildCommand": "next build",
+    "cleanUrls": true
+  }
+
+  
