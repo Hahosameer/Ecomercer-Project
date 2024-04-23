@@ -1,0 +1,22 @@
+.ListItemMain {
+    position: relative;
+}
+
+.DeleteOutlineIcon {
+    color: red;
+    font-size: 26px;
+    cursor: pointer;
+    margin-left: 10px;
+
+}
+
+.qtyIcon {
+    font-size: 18px;
+    margin: 0 5px;
+    cursor: pointer;
+}
+
+.chackoutBtn {
+    width: 100% !important;
+    margin-top: 20px !important;
+}
